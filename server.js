@@ -171,4 +171,4 @@ Server id: __${guild.id}__
 Server Count: __${guild.memberCount}__**`);
 client.channels.get("671302324043644928").sendEmbed(embed)
 });
-client.login("NjcxMzU1OTE5MjUwMjI3MjEx.Xi7vkg.CSgpdlvxxivQ27tS_GgFLZbVwYA")
+client.login("NjcxMzU1OTE5MjUwMjI3MjEx.Xi71sg.SB71wmTyi7oWTFaQc1ms-Pal9Pk")
